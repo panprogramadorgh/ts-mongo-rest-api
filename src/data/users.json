@@ -1,0 +1,122 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "firstname": "Jane",
+    "lastname": "Smith"
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "firstname": "Alice",
+    "lastname": "Johnson"
+  },
+  {
+    "username": "user4",
+    "password": "pass4",
+    "firstname": "Bob",
+    "lastname": "Brown"
+  },
+  {
+    "username": "user5",
+    "password": "pass5",
+    "firstname": "Charlie",
+    "lastname": "Davis"
+  },
+  {
+    "username": "user6",
+    "password": "pass6",
+    "firstname": "Eve",
+    "lastname": "Wilson"
+  },
+  {
+    "username": "user7",
+    "password": "pass7",
+    "firstname": "Frank",
+    "lastname": "Garcia"
+  },
+  {
+    "username": "user8",
+    "password": "pass8",
+    "firstname": "Grace",
+    "lastname": "Martinez"
+  },
+  {
+    "username": "user9",
+    "password": "pass9",
+    "firstname": "Henry",
+    "lastname": "Lopez"
+  },
+  {
+    "username": "user10",
+    "password": "pass10",
+    "firstname": "Ivy",
+    "lastname": "Gonzalez"
+  },
+  {
+    "username": "user11",
+    "password": "pass11",
+    "firstname": "Jack",
+    "lastname": "Perez"
+  },
+  {
+    "username": "user12",
+    "password": "pass12",
+    "firstname": "Kara",
+    "lastname": "Sanchez"
+  },
+  {
+    "username": "user13",
+    "password": "pass13",
+    "firstname": "Liam",
+    "lastname": "Clark"
+  },
+  {
+    "username": "user14",
+    "password": "pass14",
+    "firstname": "Mia",
+    "lastname": "Ramirez"
+  },
+  {
+    "username": "user15",
+    "password": "pass15",
+    "firstname": "Noah",
+    "lastname": "Lee"
+  },
+  {
+    "username": "user16",
+    "password": "pass16",
+    "firstname": "Olivia",
+    "lastname": "Walker"
+  },
+  {
+    "username": "user17",
+    "password": "pass17",
+    "firstname": "Paul",
+    "lastname": "Hall"
+  },
+  {
+    "username": "user18",
+    "password": "pass18",
+    "firstname": "Quinn",
+    "lastname": "Allen"
+  },
+  {
+    "username": "user19",
+    "password": "pass19",
+    "firstname": "Rachel",
+    "lastname": "Young"
+  },
+  {
+    "username": "user20",
+    "password": "pass20",
+    "firstname": "Sam",
+    "lastname": "King"
+  }
+]
