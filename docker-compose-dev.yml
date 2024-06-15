@@ -1,0 +1,22 @@
+version: "3.9"
+services:
+  miapp:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3000:3000"
+    links:
+      - monguito
+    volumes:
+      - .:/home/app
+
+  monguito:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
